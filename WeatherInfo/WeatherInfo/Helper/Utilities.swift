@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-let apiKey = "ae1c4977a943a50eaa7da25e6258d8b2"
+let apiKey = ""
 extension String {
     func isValidLatitudeCheck() -> Bool {
         let passwordRegex = "^-?([0-8]?[0-9]|90)(\\.[0-9]{1,10})?$"
